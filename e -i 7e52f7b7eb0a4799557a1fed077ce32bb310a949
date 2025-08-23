@@ -1,0 +1,23 @@
+[33mcommit 037014bfecc9c0ae297474118598eb6871cf6f8e[m
+Author: Rahul <rahulviswanathan04@gmail.com>
+Date:   Sat Aug 23 01:37:05 2025 +0530
+
+    Remove .env from git tracking
+
+[33mcommit ed0adc3d63ba3bec477420b99bd798325d0cfb02[m
+Author: Rahul <rahulviswanathan04@gmail.com>
+Date:   Sat Aug 23 01:30:56 2025 +0530
+
+    commit for deployment
+
+[33mcommit 7e52f7b7eb0a4799557a1fed077ce32bb310a949[m
+Author: Rahul <rahulviswanathan04@gmail.com>
+Date:   Sat Aug 23 01:16:23 2025 +0530
+
+    made changes for deployment
+
+[33mcommit a81be059a7ce6750bf08b901d10ea88123548179[m
+Author: Rahul <rahulviswanathan04@gmail.com>
+Date:   Mon Aug 11 21:13:11 2025 +0530
+
+    made chnages in cors port section in app.js for easier connection between frontend and backend
