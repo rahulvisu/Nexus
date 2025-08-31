@@ -18,10 +18,10 @@ All colors MUST be HSL.
     --popover-foreground: 222.2 84% 4.9%;
 
     /* Brand */
-    --primary: 262 83% 54%; /* Vibrant violet */
-    --primary-foreground: 210 40% 98%;
-    --primary-variant: 282 78% 60%;
-    --primary-glow: 262 100% 68%;
+    --primary: 0 0% 0%; /* Black */
+    --primary-foreground: 0 0% 100%;
+    --primary-variant: 0 0% 20%;
+    --primary-glow: 0 0% 40%;
 
     --secondary: 210 40% 96.1%;
     --secondary-foreground: 222.2 47.4% 11.2%;
@@ -68,10 +68,10 @@ All colors MUST be HSL.
     --popover: 230 20% 9%;
     --popover-foreground: 210 40% 98%;
 
-    --primary: 210 40% 98%;
-    --primary-foreground: 232 15% 10%;
-    --primary-variant: 220 20% 85%;
-    --primary-glow: 222 100% 80%;
+    --primary: 0 0% 100%; /* White for dark mode */
+    --primary-foreground: 0 0% 0%;
+    --primary-variant: 0 0% 80%;
+    --primary-glow: 0 0% 60%;
 
     --secondary: 217.2 32.6% 17.5%;
     --secondary-foreground: 210 40% 98%;
