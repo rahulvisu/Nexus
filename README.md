@@ -1,5 +1,5 @@
 
-# Checkmate - Full Stack Chess Application
+# Nexus - Full Stack Chess Application
 
 A real-time chess application built with React, Node.js, MongoDB, and Socket.io featuring AI gameplay, user authentication, and live multiplayer matches.
 
